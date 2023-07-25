@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=aerubanov&&style=flat-square" align="center" />
 </div>  
