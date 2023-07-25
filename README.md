@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m mainly interested in technologies related to machine learning and data processing 
   
 
-- 🌱I'd like to learn and contribute to open-source technologies and libraries  
+- 🌱I'd like to learn and contribute to open-source technologies
   
 
 - 👨‍🎓 I have some background in material science and engineering -  when I was a phd student, I published several papers about metal additive manufacturing   
