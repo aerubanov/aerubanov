@@ -43,10 +43,9 @@ Here are some ideas to get you started:
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
-
 <div align="center">
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://docs.pytest.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://github.com/pytest-dev/pytest/blob/10056865d2a4784934ce043908a0e78d0578f677/doc/en/img/pytest_logo_curves.svg#L4" alt="pytest" height="50" /></a> 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.svg" alt="numpy" height="50" /></a>
@@ -54,10 +53,11 @@ Here are some ideas to get you started:
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+
 </div>
-</td></tr></table>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aerubanov&&style=flat-square" align="center" />
