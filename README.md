@@ -32,14 +32,15 @@ Here are some ideas to get you started:
 <br/>  
 
 ## I`m working on/learn now
-- [Serverless ETL pipline for air quality data](https://github.com/aerubanov/air-quality-data)
 - [AWS course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 - Neural network for object localization
+- Contributing to [pymc](https://github.com/pymc-devs/pymc)
 
 ## What I want to learn
 - JAX
 - AWS sertification
 - Sparse Gaussian process regression
+- C/C++
 
 
 ## My Skill Set  
