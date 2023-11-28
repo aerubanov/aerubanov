@@ -32,13 +32,12 @@ Here are some ideas to get you started:
 <br/>  
 
 ## I`m working on/learn now
-- [AWS course](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+- AWS certification
 - Neural network for object localization
 - Contributing to [pymc](https://github.com/pymc-devs/pymc)
 
 ## What I want to learn
 - JAX
-- AWS sertification
 - Sparse Gaussian process regression
 - C/C++
 
