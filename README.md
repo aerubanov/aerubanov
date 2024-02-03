@@ -26,20 +26,22 @@ Here are some ideas to get you started:
 - 👨‍🎓 I have some background in material science and engineering -  when I was a phd student, I published several papers about metal additive manufacturing   
   
 
-- ⚡ My favorite sports are running, cycling, and cross-country skiing  
+- ⚡ My favorite sports are running, cycling, and cross-country skiing
+
+- I`m a AWS Certified Developer – Associate
   
 
 <br/>  
 
 ## I`m working on/learn now
-- AWS certification
+- JAX
 - Neural network for object localization
 - Contributing to [pymc](https://github.com/pymc-devs/pymc)
 
 ## What I want to learn
-- JAX
 - Sparse Gaussian process regression
 - C/C++
+- Cellular automata for application in materials science
 
 
 ## My Skill Set  
@@ -56,6 +58,7 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" /></a>
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://www.credly.com/badges/a012f7b2-2905-462b-b1c0-a790081d3a65/public_url"><img style="margin: 10px" src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" height="50" /></a>
 
 </div>
 
