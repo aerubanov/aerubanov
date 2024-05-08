@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ My favorite sports are running, cycling, and cross-country skiing
 
-- I`m a AWS Certified Developer – Associate
+- 😄 I`m a AWS Certified Developer – Associate
   
 
 <br/>  
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - JAX
 - Neural network for object localization
 - Contributing to [pymc](https://github.com/pymc-devs/pymc)
+- Bayesian inference for X-ray diffraction data analysis in materials science
 
 ## What I want to learn
 - Sparse Gaussian process regression
