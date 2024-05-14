@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - ⚡ My favorite sports are running, cycling, and cross-country skiing
 
-- 😄 I`m a AWS Certified Developer – Associate
+- 😄 I`m an AWS Certified Developer – Associate
   
 
 <br/>  
