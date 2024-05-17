@@ -1,5 +1,7 @@
 ### Hi there ✨<img src="https://raw.githubusercontent.com/Milesq/Milesq/master/assets/Hi.gif" width="25px">✨
-<!-- ![header-image](github-header-image.png) -->
+<!--
+![header-image](github-header-image.png)
+-->
 <!--
 **aerubanov/aerubanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
