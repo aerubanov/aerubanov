@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 
 ## I`m working on/learn now
 - JAX
-- Neural network for object localization
+- Transformer arhitecture and NLP-related topics
+- Extructed stuctured data from unstructured documents using Knowledge Graps and LLMs
 - Contributing to [pymc](https://github.com/pymc-devs/pymc)
-- Bayesian inference for X-ray diffraction data analysis in materials science
 
 ## What I want to learn
-- Sparse Gaussian process regression
+- MLOps
 - C/C++
-- Cellular automata for application in materials science
+- Bayesian inference for X-ray diffraction data analysis in materials science
 
 
 ## My Skill Set  
