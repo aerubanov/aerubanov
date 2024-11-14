@@ -17,8 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### <div align="center">I'm Anatoly, a python developer, working remotely since 2021 🚀</div>  
-  
 
+## I`m working on/learn now
+- JAX
+- Transformer arhitecture and NLP-related topics
+- Stuctured data extraction from unstructured documents using Knowledge Graps and LLMs
+- Contributing to [pymc](https://github.com/pymc-devs/pymc)
+
+## What I want to learn
+- MLOps
+- C/C++
+- Bayesian inference for X-ray diffraction data analysis in materials science
+
+## Some facts about me
 - 🔭 I’m mainly interested in technologies related to machine learning and data processing 
   
 
@@ -31,20 +42,7 @@ Here are some ideas to get you started:
 - ⚡ My favorite sports are running, cycling, and cross-country skiing
 
 - 😄 I`m an AWS Certified Developer – Associate
-  
 
-<br/>  
-
-## I`m working on/learn now
-- JAX
-- Transformer arhitecture and NLP-related topics
-- Stuctured data extraction from unstructured documents using Knowledge Graps and LLMs
-- Contributing to [pymc](https://github.com/pymc-devs/pymc)
-
-## What I want to learn
-- MLOps
-- C/C++
-- Bayesian inference for X-ray diffraction data analysis in materials science
 
 
 ## My Skill Set  
