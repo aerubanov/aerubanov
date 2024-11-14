@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## I`m working on/learn now
 - JAX
 - Transformer arhitecture and NLP-related topics
-- Extructed stuctured data from unstructured documents using Knowledge Graps and LLMs
+- Stuctured data extraction from unstructured documents using Knowledge Graps and LLMs
 - Contributing to [pymc](https://github.com/pymc-devs/pymc)
 
 ## What I want to learn
