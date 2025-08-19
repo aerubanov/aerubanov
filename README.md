@@ -38,15 +38,20 @@ Here are some ideas to get you started:
 </div>
 
 ## I`m working on/learn now
-- JAX
-- Transformer arhitecture and NLP-related topics
-- Stuctured data extraction from unstructured documents using Knowledge Graps and LLMs
+- Transformer architecture and NLP-related topics
+- Structured data extraction from unstructured documents using LLMs
+- Knowledge graph engineering
+- C++ (from machine learning and HPC perspective)
 - Contributing to [pymc](https://github.com/pymc-devs/pymc)
+
+## Recent projects:
+- https://github.com/aerubanov/SmolLMSuperWeight
 
 ## What I want to learn
 - MLOps
-- C/C++
-- Bayesian inference for X-ray diffraction data analysis in materials science
+- Databases
+- Cuda
+- Algorithms for modern hardware (CPU and GPU)
 
 ## Some facts about me
 - 🔭 I’m mainly interested in technologies related to machine learning and data processing 
