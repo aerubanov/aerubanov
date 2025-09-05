@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 - Contributing to [pymc](https://github.com/pymc-devs/pymc)
 
 ## Recent projects:
-- https://github.com/aerubanov/SmolLMSuperWeight
+- https://github.com/aerubanov/SmolLMSuperWeight - Implementation of The Super Weight in Large Language Models paper (unofficial)
+- https://github.com/aerubanov/runpod-exp-setup - Repo template with CD pipline to deploy your ML exp code on runpod 
 
 ## What I want to learn
 - MLOps
