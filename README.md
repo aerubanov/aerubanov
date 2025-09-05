@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 <a href="https://www.credly.com/badges/a012f7b2-2905-462b-b1c0-a790081d3a65/public_url"><img style="margin: 10px" src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS" height="50" /></a>
 <a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" height="50" /></a>
+<a href="https://www.w3.org/TR/r2rml/" target="_blank"><img style="margin: 10px" src="https://cygri.github.io/rdf-logos/svg/r2rml.svg" alt="R2RML" height="50" /></a>
+<a href="https://linkml.io/linkml/" target="_blank"><img style="margin: 10px" src="https://linkml.io/uploads/linkml-logo_color.png" alt="LinkML" height="50" /></a>
+<a href="https://www.w3.org/TR/rdf-sparql-query/" target="_blank"><img style="margin: 10px" src="https://cygri.github.io/rdf-logos/svg/sparql.svg" alt="SPARQL" height="50" /></a>
 </div>
 
 ## I`m working on/learn now
